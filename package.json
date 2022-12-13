@@ -9,7 +9,7 @@
   "author": "Meshack alias Geezer",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.15.4",
+    "express": "^4.17.3",
     "node-fetch": "^2.6.0"
   }
 }
